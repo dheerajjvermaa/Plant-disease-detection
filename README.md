@@ -13,7 +13,7 @@ Welcome to PhytoSense- Plant Disease Detection Model! This deep learning model i
 ## How to Use
 
 1. *Access the Website:*
-   - Navigate to link-  to access the Plant Disease Detection application.
+   - Navigate to link- https://phytosenseversion1-com.onrender.com/  to access the Plant Disease Detection application.
 
 2. *Upload an Image:*
    - Click on the "Upload" button to select an image of a plant leaf from your device.
