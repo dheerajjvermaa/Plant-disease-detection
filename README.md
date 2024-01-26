@@ -1,4 +1,4 @@
-# Plant Disease Detection Model Readme
+# Plant Disease Detection 
 
 ## Overview
 
