@@ -1,0 +1,8 @@
+numpy==1.24.3
+opencv_python==4.9.0.80
+Pillow==10.2.0
+gradio==4.16.0
+tensorflow==2.7.0
+matplotlib.pyplot==3.3.2
+joblib==1.4
+
